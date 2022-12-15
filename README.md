@@ -1,15 +1,12 @@
 
 # 🧑‍💻 About Me
 
-- 📡 Junior DevOps consultant at Sparta Global.
-- 🌱 Upskilling on DevOps tools.
+- 🏢 📡 Junior Consultant at Sparta Global.
+- 🎄 🎅 Solving puzzles on Advent of Code.
 
 <div id="header">
           <a href="https://www.linkedin.com/in/nikhil-jha-42-dev-ops/">
                     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" height=10% width=10%/>
-          </a>
-          <a href="https://hub.docker.com/u/njha42">
-                    <img src="https://img.shields.io/badge/DockerHub-white?logo=docker&logoColor=blue" alt="DockerHub Badge" height=12% width=12%/>
           </a>
 </div>
 
